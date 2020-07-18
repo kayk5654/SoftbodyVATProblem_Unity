@@ -1,0 +1,25 @@
+{
+    "VAT_Vellum": [
+        {
+            "_doubleTex": "0", 
+            "_height": ".1", 
+            "_normData": "1", 
+            "_numOfFrames": "89", 
+            "_packNorm": "0", 
+            "_packPscale": "1", 
+            "_padPowTwo": "0", 
+            "_paddedSizeX": "1.0", 
+            "_paddedSizeY": "1.0", 
+            "_pivMax": "0", 
+            "_pivMin": "0", 
+            "_posMax": "2.8", 
+            "_posMin": "-1.5000201", 
+            "_scaleMax": "1.0", 
+            "_scaleMin": "1.0", 
+            "_speed": "0.337078651685", 
+            "_textureSizeX": "1.0", 
+            "_textureSizeY": "1.0", 
+            "_width": ".1"
+        }
+    ]
+}
